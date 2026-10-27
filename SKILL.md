@@ -4,7 +4,7 @@ description: >-
   Use when researching, drafting, or publishing a Skillzine skill/agent review
   (English and/or Simplified Chinese): discover a real skill, research/test it,
   write review MDX + Reference JSON + media, optional zh translation at
-  reviews/zh/<slug>.mdx, then open a Git PR for Vercel preview (never buy
+  reviews/zh/{slug}.mdx, then open a Git PR for Vercel preview (never buy
   domains, never enable indexing, never push straight to main).
 ---
 
